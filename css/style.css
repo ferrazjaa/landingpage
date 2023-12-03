@@ -59,7 +59,7 @@ main{
 
 /* Seção Inicial ***********************************************************************/
 #home{
-    margin-top: 60px;
+    margin-top: 83px;
     text-align: center;
     background-image: url(../img/fundo.jpg);
     background-size: cover;
@@ -384,6 +384,7 @@ footer #desenvolvido{
     font-weight: 600;
     font-size: 1.2em;
 }
+
 #size{
     font-size: 2em;
 }
